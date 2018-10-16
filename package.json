@@ -1,0 +1,14 @@
+{
+  "name": "lodash-tut",
+  "version": "1.0.0",
+  "description": "a quick run down and exercises using lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan McDonald",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.11"
+  }
+}
